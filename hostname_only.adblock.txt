@@ -1,6 +1,7 @@
 ! Expires: 1 days
 
 ||ad.103092804.com^$3p
+||sync.1dmp.io^$3p
 ||2mdn.net^$3p
 ||s0.2mdn.net^$3p
 ||s1.2mdn.net^$3p
@@ -26,7 +27,9 @@
 ||adriver.ru^$3p
 ||ad.adriver.ru^$3p
 ||adsurve.com^$3p
+||player.adtcdn.com^$3p
 ||adserver.adtechus.com^$3p
+||player.adtelligent.com^$3p
 ||banners.adultfriendfinder.com^$3p
 ||advertising.com^$image
 ||advombat.ru^$3p
@@ -82,6 +85,7 @@
 ||deepsteelsky.com^$3p
 ||digitaltarget.ru^$3p
 ||prebid.districtm.ca^$3p
+||sync.dmp.otm-r.com^$3p
 ||ad.doubleclick.net^$3p
 ||bid.g.doubleclick.net^$3p
 ||feedads.g.doubleclick.net^$subdocument
@@ -90,6 +94,7 @@
 ||static.doubleclick.net^$3p
 ||doublepimp.com^$3p
 ||doublepimpssl.com^$3p
+||dsp.e-contenta.com^$3p
 ||delivery.e.switchadhub.com^$3p
 ||ebz.io^$3p
 ||eclkmpbn.com^$3p
@@ -142,7 +147,9 @@
 ||m73lae5cpmgrv38.com^$3p
 ||marketgid.com^$3p
 ||mc.yandex.ru^$3p
+||media.ethicalads.io^$3p
 ||mediaplex.com^$3p
+||sync.meditraf.com^$3p
 ||medleyads.com^$3p
 ||meetlocals.com^$popup
 ||merkur-slots.com^$3p
