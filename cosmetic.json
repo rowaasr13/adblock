@@ -1,0 +1,94 @@
+[
+	["ria.ru"], [
+		".article__block[data-type=\"banner\"]",
+		".banner__content",
+		".banner__hidden",
+	],
+
+	["www.pornhub.com"], [
+		"#age-verification-container",
+		"#age-verification-wrapper",
+	 	"#welcome",
+	],
+
+	["mail.ru"], [
+		".article__item>[data-brandsafety]:upward(1)",
+		".article__item_slot:has(.trg-b-content-roll__banner)",
+		".banner",
+		".banner[data-rb_slot]",
+		".banner_content",
+		".banner_content_visible",
+		".content__banner",
+		".rb-fs",
+		".toolbar:has-text(Сделать Mail.ru стартовой страницей?)"
+		".trg-b-fullScreen",
+		".trg-b-fullScreenWrap",
+		".trg-b-wrap",
+		"[name^=\"trg-rbframe\"]",
+	],
+
+	["go.dev"], [
+		".Banner"
+	],
+
+	["sophos.com"], [
+		".sophos-inline-ad",
+		".sophos_widget_ad",
+		"[id^=\"sophos_ad-\"]"
+	],
+
+	["find-info.ru"], [
+		"[id*=\"_ban_\"]:upward(table)",
+		"[id^=\"ban_\"]:upward(table)",
+	],
+
+	["xvideos.com"], [
+		"#video-ad",
+		".ad-square",
+		".ad-support-desktop",
+	],
+
+	["livejournal.com"], [
+		".ad_native_block",
+		".ad_native_sponsored",
+		".ad_native_wrapper",
+		".entry-wrap-promo",
+		".j-after-three-posts-adv",
+		".j-content-adv",
+		".j-entry-adv",
+		".native-banner-place",
+		".sidebar-block:has([data-close])",
+		".sidebar-block:has([id^=\"yandex_direct\"])",
+		".unbounded-banner-place",
+		"[data-banner-place-id]",
+		"[data-name=\"adaptiveAd\"]",
+		"div[cookies-alert]",
+		"dl.sidebar-block:has([lj-ml=\"adfox.noads.paid\"])",
+		"iframe[src^=\"https://livejournal.naydex.net/\"][sandbox*=\"allow-popups-to-escape-sandbox\"]"
+	],
+
+	["livejournal.naydex.net"], [
+		"[data-name=\"banner-layout\"]"
+	],
+
+	["kinopoisk.ru"],[
+		"#external_header_wrapper>div>.foxad-special-banner-partial-component:upward(2)"
+	],
+
+	["vc.ru"],[
+		".booster-promo",
+	],
+
+	["kommersant.ru"],[
+		".adv_nest"
+	],
+
+	["gamesplus.xyz", "mangayeh.com"],[
+		".ads_sticky_bottom",
+		".prows",
+		".sticky_bottom",
+	],
+
+	[],[
+	],
+]
