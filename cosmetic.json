@@ -62,6 +62,7 @@
 		".unbounded-banner-place",
 		"[data-banner-place-id]",
 		"[data-name=\"adaptiveAd\"]",
+		"div:has(> [data-test*=\"--adLabelContent\"])",
 		"div[cookies-alert]",
 		"dl.sidebar-block:has([lj-ml=\"adfox.noads.paid\"])",
 		"iframe[src^=\"https://livejournal.naydex.net/\"][sandbox*=\"allow-popups-to-escape-sandbox\"]"
