@@ -20,7 +20,7 @@
 		".banner_content_visible",
 		".content__banner",
 		".rb-fs",
-		".toolbar:has-text(Сделать Mail.ru стартовой страницей?)"
+		".toolbar:has-text(Сделать Mail.ru стартовой страницей?)",
 		".trg-b-fullScreen",
 		".trg-b-fullScreenWrap",
 		".trg-b-wrap",
@@ -72,19 +72,19 @@
 		"[data-name=\"banner-layout\"]"
 	],
 
-	["kinopoisk.ru"],[
+	["kinopoisk.ru"], [
 		"#external_header_wrapper>div>.foxad-special-banner-partial-component:upward(2)"
 	],
 
-	["vc.ru"],[
+	["vc.ru"], [
 		".booster-promo",
 	],
 
-	["kommersant.ru"],[
+	["kommersant.ru"], [
 		".adv_nest"
 	],
 
-	["gamesplus.xyz", "mangayeh.com"],[
+	["gamesplus.xyz", "mangayeh.com"], [
 		".ads_sticky_bottom",
 		".prows",
 		".sticky_bottom",
