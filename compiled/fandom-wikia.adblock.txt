@@ -1,0 +1,29 @@
+[Adblock Plus 2.0]
+! Title: Fandom/Wikia specific network and cosmetic filters
+! Description: Fandom/Wikia only
+!              Network filters will, of course, disable some providers everywhere,
+!              but extra care were taken to make those to be precise only to
+!              beacons/syncs/tracking/counters/ad-dispensing/opt-in/cookie warning URLs
+!              so no other features of site is disabled
+!              (like, for example, site's own internal announcements and promotions)
+!              as it could happen with more generic lists.
+!              Cosmetic filters are repeated in three flavors: hiding filter, removal filter, and HTML filter.
+!
+! Version:
+! Last modified:
+! Expires: 90 days (update frequency)
+! Homepage:
+!
+
+||fastly-insights.com/static/scout.js^
+||beacon.wikia-services.com/__track^
+||script.wikia.nocookie.net/fandom-ae-assets/tracking-opt-in^
+||static.wikia.nocookie.net/fandom-ae-assets/prebid.js^
+||seg.ad.gt/api^
+
+fandom.com##.bottom-ads-container
+fandom.com##.bottom-ads-container:remove()
+fandom.com##^.bottom-ads-container
+fandom.com##.top-ads-container
+fandom.com##.top-ads-container:remove()
+fandom.com##^.top-ads-container
