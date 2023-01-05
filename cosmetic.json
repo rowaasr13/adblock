@@ -53,6 +53,7 @@
 		".ad_native_sponsored",
 		".ad_native_wrapper",
 		".entry-wrap-promo",
+		".j-after-first-post-adv",
 		".j-after-three-posts-adv",
 		".j-content-adv",
 		".j-entry-adv",
@@ -62,10 +63,12 @@
 		".unbounded-banner-place",
 		"[data-banner-place-id]",
 		"[data-name=\"adaptiveAd\"]",
+		"div.ng-isolate-scope:matches-attr(\"/cookie$/\"=\"common_banner_close\")",
+		"div.ng-isolate-scope:matches-attr(\"/init$/\"=\"/^yandex_direct/\")",
 		"div:has(> [data-test*=\"--adLabelContent\"])",
 		"div[cookies-alert]",
 		"dl.sidebar-block:has([lj-ml=\"adfox.noads.paid\"])",
-		"iframe[src^=\"https://livejournal.naydex.net/\"][sandbox*=\"allow-popups-to-escape-sandbox\"]"
+		"iframe[src^=\"https://livejournal.naydex.net/\"][sandbox*=\"allow-popups-to-escape-sandbox\"]",
 	],
 
 	["livejournal.naydex.net"], [
